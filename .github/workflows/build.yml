@@ -1,3 +1,5 @@
+</> bash
+flutter create qr_app
 name: Build APK
 
 on:
